@@ -3,3 +3,4 @@ langchain
 streamlit
 psycopg2-binary
 python-dotenv
+langchain-community
